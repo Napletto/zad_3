@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">zadanie3</string>
+
+    <string name="app_name">Pierwsza Aplikacja</string>
+    <string name="screen_title">Powitanie</string>
+    <string name="hint_name">Wpisz swoje imię</string>
+    <string name="btn_greet">Przywitaj się</string>
 </resources>
